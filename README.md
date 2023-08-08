@@ -23,6 +23,7 @@ The Instagram AI Content Generator Bot is a cutting-edge project that leverages 
 ### Prerequisites
 - Python (version 3.11.3)
 - Instagram Account
+- API key from openapi
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/yourusername/instagram-ai-bot.git`
@@ -30,6 +31,6 @@ The Instagram AI Content Generator Bot is a cutting-edge project that leverages 
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
-1. Run the bot using the command: `python main.py`.
+1. Run the bot using the command: `python main.py (username) (password)`.
 
 ## Configuration
